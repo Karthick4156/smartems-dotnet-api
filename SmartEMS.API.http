@@ -1,0 +1,6 @@
+@SmartEMS.API_HostAddress = http://localhost:5022
+
+GET {{SmartEMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
